@@ -1,4 +1,7 @@
  <!-- Banner -->
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div class="container-fluid">
   <img class="mx-auto" src="assets/banner.png">
 </div>
@@ -266,3 +269,23 @@ A most common problem faced by students during exams is of time management and i
 - Fork the Repo and create a Branch for any Issue that you are working upon.
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Contact anushkagupta20128@gmail.com for more information regarding contributions.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/sb2356-iiitr"><img src="https://avatars.githubusercontent.com/u/69338695?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Soumyabrata Bairagi</b></sub></a><br /><a href="https://github.com/sb2356-iiitr/Learning-Made-Easy/commits?author=sb2356-iiitr" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

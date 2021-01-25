@@ -39,6 +39,7 @@ void printJobScheduling(subject arr[], int n);
 
 double fractionalKnapsack(int W, topic arr[], int n);
 
+//Comparison
 bool cmp(topic a, topic b)
 {
     double r1 = (double)a.priority / a.time;
